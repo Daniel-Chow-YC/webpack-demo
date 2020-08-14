@@ -17,5 +17,8 @@ Basic Webpack demo with an exapmle of importing and exporting modules.
  ``npm install <module> --save``
  - Installs module and adds the module as a dependency of your project to the project's package.json as an entry in dependencies. 
 
+<p> </p>
 
+``npm run <script_name>`` or ``npm start``
+- Runs script as defined in package.json file
 
